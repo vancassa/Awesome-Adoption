@@ -22,10 +22,12 @@ import jwt_decode from "jwt-decode";
 /*  eslint-enable */
 import Donate from "./components/donate/Donate";
 import Register from "./components/accounts/Register";
+import Profile from "./components/accounts/profile/Profile";
 import { supabase } from "./utils/SupaBaseUtils";
 import SLogin from "./components/accounts/SLogin";
 import { Provider } from "react-supabase";
 import { AuthProvider } from "./context/SupaContext";
+
 
 export default function App() {
   const [token, setToken] = useState("");
@@ -93,7 +95,9 @@ export default function App() {
                 <Route path="/" exact>
                   {Authenticated && <Home token={token} />}
                 </Route>
-
+      <Route path="/profile">
+              <Profile />
+            </Route>
                 <Route path="/404">
                   <NotFound />
                 </Route>
