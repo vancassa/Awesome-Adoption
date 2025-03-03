@@ -9578,10 +9578,10 @@ react-test-renderer@^18.3.1:
     react-shallow-renderer "^16.15.0"
     scheduler "^0.23.2"
 
-react-toastify@^11.0.4:
-  version "11.0.4"
-  resolved "https://registry.yarnpkg.com/react-toastify/-/react-toastify-11.0.4.tgz#ca5f901e22c59b830aee1569f0b8934e7273c343"
-  integrity sha512-4DIp9uCobk9pjMshWaf+dWWPEVSIdQOVXBtWwWwfcsQ1afzkmp+rymdgrXhcHAx0ihDs+aSPigVKRTVS+QVkFQ==
+react-toastify@^11.0.5:
+  version "11.0.5"
+  resolved "https://registry.yarnpkg.com/react-toastify/-/react-toastify-11.0.5.tgz#ce4c42d10eeb433988ab2264d3e445c4e9d13313"
+  integrity sha512-EpqHBGvnSTtHYhCPLxML05NLY2ZX0JURbAdNYa6BUkk+amz4wbKBQvoKQAB0ardvSarUBuY4Q4s1sluAzZwkmA==
   dependencies:
     clsx "^2.1.1"
 
