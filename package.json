@@ -20,7 +20,7 @@
     "jwt-decode": "^4.0.0",
     "postcode-validator": "^3.10.9",
     "react": "^19.2.3",
-    "react-country-region-selector": "^4.0.4",
+    "react-country-region-selector": "^4.0.5",
     "react-daisyui": "^5.0.5",
     "react-dom": "^19.2.1",
     "react-hook-form": "^7.68.0",
