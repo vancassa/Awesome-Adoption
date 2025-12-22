@@ -5475,10 +5475,10 @@ eslint-plugin-testing-library@^5.0.1:
   dependencies:
     "@typescript-eslint/utils" "^5.58.0"
 
-eslint-plugin-testing-library@^7.14.0:
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.14.0.tgz#65f97e9d70ab448b6c97130587a90c0a281481ed"
-  integrity sha512-Z2c/UClULF67VAjQL8G2wKVdCpYBmFof9yuThXjyWwAlTxAq4vbROmS6OMPy6n1AGAMiaGgMIrKauARSVXeIHg==
+eslint-plugin-testing-library@^7.15.2:
+  version "7.15.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.15.2.tgz#fa347ad64accae5e55ad51408b13298c75000863"
+  integrity sha512-Wb3OzW6oxjJqcn6asvAGFRQIXRZ1DKPUQRej7S0LmGaiMFlSYh+NZqiODxZro8LmFpxwUDnb+67Lk2ioL96YZA==
   dependencies:
     "@typescript-eslint/scope-manager" "^8.15.0"
     "@typescript-eslint/utils" "^8.15.0"
