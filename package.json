@@ -85,7 +85,7 @@
     "postcss": "^8.5.15",
     "prettier": "^3.8.3",
     "pretty-quick": "^4.2.2",
-    "react-test-renderer": "^19.2.6",
+    "react-test-renderer": "^19.2.7",
     "standard": "^17.1.2",
     "tailwindcss": "^4.3.0"
   },
