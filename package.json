@@ -18,7 +18,7 @@
     "@types/react-dom": "^19.2.4",
     "daisyui": "^5.7.16",
     "jwt-decode": "^4.0.0",
-    "postcode-validator": "^3.10.18",
+    "postcode-validator": "^3.10.22",
     "react": "^19.2.8",
     "react-country-region-selector": "^4.0.6",
     "react-daisyui": "^5.0.5",
